@@ -3,7 +3,7 @@ import { api } from './client';
 
 export const AUTH_SERVICE = '/api/auth';
 const CATALOG_SERVICE = '/api/catalog';
-const ORDER_SERVICE = '/api/order';
+const ORDER_SERVICE = '';
 
 // Auth service
 export const login = (credentials: Credentials) =>
